@@ -1,0 +1,22 @@
+{
+  "name": "node-spec-workspace",
+  "private": true,
+  "description": "Monorepo for node-spec",
+  "scripts": {
+    "build": "pnpm recursive run build",
+    "build:all": "pnpm --filter \"*\" build",
+    "test": "pnpm recursive run test",
+    "test:all": "pnpm --filter \"*\" test",
+    "lint:all": "pnpm --filter \"*\" lint",
+    "start:ui": "pnpm --filter ui dev",
+    "start:api": "pnpm --filter api start:dev",
+    "start": "pnpm run start:ui & pnpm run start:api"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@pnpmworkspace/logger": "link:packages/logger",
+    "logger": "link:packages/logger"
+  }
+}
