@@ -16,7 +16,6 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
-    "@pnpmworkspace/logger": "link:packages/logger",
-    "logger": "link:packages/logger"
+    "@pnpmworkspace/logger": "link:packages/logger"
   }
 }

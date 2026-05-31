@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47fc9e64-903a-4d98-a279-fc74bdc11e22" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apps/api" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3EH7wnqO5PkUTdJ6xw95LawepQg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tales/workspace/node-spec&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/tales/workspace/node-spec/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47fc9e64-903a-4d98-a279-fc74bdc11e22" name="Changes" comment="" />
+      <created>1779823881498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779823881498</updated>
+      <workItem from="1779823887449" duration="3610000" />
+      <workItem from="1779893686787" duration="548000" />
+      <workItem from="1779899597397" duration="6595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/apps/api/src/app.module.js" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.service.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.module.d.ts" />
+        <option value="$PROJECT_DIR$/apps/api/src/main.d.ts" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.service.js" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.module.js.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.controller.d.ts" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.controller.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/main.js" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.service.js.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.module.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.service.d.ts" />
+        <option value="$PROJECT_DIR$/apps/api/src/main.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/main.js.map" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.controller.js" />
+        <option value="$PROJECT_DIR$/apps/api/src/app.controller.js.map" />
+        <option value="$PROJECT_DIR$/apps/api/test/app.e2e-spec.d.ts" />
+        <option value="$PROJECT_DIR$/apps/api/test/app.e2e-spec.js" />
+        <option value="$PROJECT_DIR$/apps/api/test/app.e2e-spec.js.map" />
+        <option value="$PROJECT_DIR$/apps/api/test/app.e2e-spec.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/ui/vite.config.d.ts" />
+        <option value="$PROJECT_DIR$/apps/ui/vite.config.js.map" />
+        <option value="$PROJECT_DIR$/apps/ui/vite.config.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/ui/vite.config.js" />
+        <option value="$PROJECT_DIR$/packages/logger/src/index.js" />
+        <option value="$PROJECT_DIR$/packages/logger/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/packages/logger/src/index.js.map" />
+        <option value="$PROJECT_DIR$/packages/logger/src/index.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/ui/src/App.js.map" />
+        <option value="$PROJECT_DIR$/apps/ui/src/App.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/ui/src/App.d.ts" />
+        <option value="$PROJECT_DIR$/apps/ui/src/main.d.ts" />
+        <option value="$PROJECT_DIR$/apps/ui/src/main.js" />
+        <option value="$PROJECT_DIR$/apps/ui/src/main.d.ts.map" />
+        <option value="$PROJECT_DIR$/apps/ui/src/main.js.map" />
+        <option value="$PROJECT_DIR$/apps/ui/src/App.js" />
+      </list>
+    </option>
+  </component>
+</project>
